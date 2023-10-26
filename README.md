@@ -1,2 +1,2 @@
-# machine_learning_projects
+# Machine Learning Projects
 A repository of different machine learning projects
